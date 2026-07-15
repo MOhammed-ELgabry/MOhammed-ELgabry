@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/profile.jpg" width="220" alt="Mohammed Elgabry"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Mohammed Elgabry</h1>
+
+<h3 align="center">
+Frontend Developer | React.js | TypeScript | Tailwind CSS | Strapi
+</h3>
 # Hi there, I'm Mohammed Elgabry 👋
 
 ## Front-End Developer | React.js | TypeScript | Tailwind CSS
