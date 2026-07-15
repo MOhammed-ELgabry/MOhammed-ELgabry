@@ -1,102 +1,131 @@
-<p align="center">
-  <img src="IMG-20220724-WA0199.jpg" width="220" alt="Mohammed Elgabry"/>
+<div align="center">
+
+<img src="IMG-20220724-WA0199.jpg" width="220" alt="Mohammed Elgabry"/>
+
+# Hi 👋 I'm Mohammed Elgabry
+
+### Front-End Developer | React.js | TypeScript | Tailwind CSS | Strapi | REST APIs
+
+<p>
+Passionate about building modern, scalable, and responsive web applications using the React ecosystem.
+Currently focused on TypeScript, clean architecture, and real-world business applications.
 </p>
 
-<h1 align="center">Hi 👋 I'm Mohammed Elgabry</h1>
+<p>
+<a href="https://www.linkedin.com/in/mohammed-elgabry-94b052326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="center">
-Frontend Developer | React.js | TypeScript | Tailwind CSS | Strapi
-</h3>
-# Hi there, I'm Mohammed Elgabry 👋
+<a href="https://my-portfolio-black-delta-33.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## Front-End Developer | React.js | TypeScript | Tailwind CSS
+<a href="mailto:mohammedelgabry187@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I'm a Front-End Developer from Egypt passionate about building modern, scalable and responsive web applications.
+</p>
 
-Currently I'm focusing on improving my React ecosystem knowledge and building real-world business applications using TypeScript.
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 Front-End Developer
-- ⚛️ React.js Developer
-- 📘 Currently learning TypeScript deeply
+- 💻 Front-End Developer from Egypt 🇪🇬
+- ⚛️ Specialized in React.js Development
+- 📘 Currently mastering TypeScript
 - 🏗️ Building a CRM System with React + TypeScript
-- 🌱 Always learning new technologies
-- 📍 Cairo, Egypt
-- 💼 Open to Junior Front-End opportunities
+- 🧠 Interested in Clean Architecture & Scalable Applications
+- 🚀 Looking for Junior Front-End Developer opportunities
+- ❤️ I enjoy transforming business ideas into real products
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite"/>
+
+</p>
 
 ### State Management
-- Zustand
 
-### Backend / CMS
-- Strapi CMS
-- REST APIs
+<p>
+
+<img src="https://skillicons.dev/icons?i=redux"/>
+
+Zustand
+
+</p>
+
+### Backend & APIs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+REST API • Strapi CMS
+
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Nginx
-- PM2
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
 ## 📚 Book Shop
 
-A full-stack E-commerce web application.
+A complete Full-Stack E-Commerce web application built with React and Strapi.
 
 ### Features
 
 - Authentication
 - Shopping Cart
 - Wishlist
+- Checkout
 - Orders
-- Payment Flow
-- User Profile
-- Admin Dashboard
+- User Profiles
 - Seller Dashboard
+- Admin Dashboard
+- Payment Integration
 - Responsive Design
 
-### Tech
+### Tech Stack
 
-React • TypeScript • Tailwind CSS • Zustand • Strapi • REST API
+React • TypeScript • Tailwind CSS • Zustand • Strapi • REST APIs
 
-🔗 Frontend
+### Repository
+
+Frontend
 
 https://github.com/MOhammed-ELgabry/Book-Shop
 
-🔗 Backend
+Backend
 
 https://github.com/MOhammed-ELgabry/1stpro-backend
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Personal Portfolio
 
-Personal portfolio showcasing my work and projects.
+Modern portfolio website built using React and Tailwind CSS.
 
-Live
+### Live Demo
 
 https://my-portfolio-black-delta-33.vercel.app
 
-Repository
+### Repository
 
 https://github.com/MOhammed-ELgabry/my-portfolio
 
@@ -104,46 +133,89 @@ https://github.com/MOhammed-ELgabry/my-portfolio
 
 ## ⚽ Pro Player (Work in Progress)
 
-A football players platform built with React and Strapi.
+Football players platform.
 
-Tech
+### Planned Features
 
-- React
-- TypeScript
-- Zustand
-- Tailwind CSS
-- Strapi
+- Authentication
+- Player Profiles
+- Video Upload
+- Search & Filters
+- Responsive UI
 
----
+### Tech
 
-## 📈 Current Goals
+React
 
-- Master TypeScript
-- Build Enterprise CRM Project
-- Learn Advanced React Patterns
-- Improve System Design
-- Land my first Front-End Developer position
+TypeScript
 
----
+Tailwind CSS
 
-## 📫 Connect With Me
+Zustand
 
-LinkedIn
-
-https://www.linkedin.com/in/mohammed-elgabry-94b052326
-
-Portfolio
-
-https://my-portfolio-black-delta-33.vercel.app
-
-GitHub
-
-https://github.com/MOhammed-ELgabry
-
-Email
-
-mohammedelgabry187@gmail.com
+Strapi
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories!
+# 📈 Current Goals
+
+- ✅ Master TypeScript
+- 🚀 Build Enterprise CRM
+- 📚 Learn Advanced React Patterns
+- ⚡ Improve Performance Optimization
+- 💼 Land my first Front-End Developer role
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MOhammed-ELgabry&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOhammed-ELgabry&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MOhammed-ELgabry&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MOhammed-ELgabry&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/mohammed-elgabry-94b052326
+
+- 🌐 Portfolio  
+  https://my-portfolio-black-delta-33.vercel.app
+
+- 📧 Email  
+  mohammedelgabry187@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to leave a ⭐ on the repositories.
+
+</div>
