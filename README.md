@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" width="220" alt="Mohammed Elgabry"/>
+  <img src="IMG-20220724-WA0199.jpg" width="220" alt="Mohammed Elgabry"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Mohammed Elgabry</h1>
